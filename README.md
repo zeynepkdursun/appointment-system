@@ -1,6 +1,6 @@
 # Appointment Management System – Backend
 
-A REST API-based appointment management system developed using **Java, Spring Boot, and MySQL** as part of an academic project. The system handles patient, doctor, and appointment operations with full CRUD functionality.
+A REST API-based appointment management system developed using Java, Spring Boot, and MySQL as part of an academic project. The system handles patient, doctor, and appointment operations with full CRUD functionality.
 
 ## Features
 
